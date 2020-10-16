@@ -1,2 +1,5 @@
-Some text to have content.
+This is a NEW title.
+
+Some text to have content and changes are now in.
 Some more text.
+Added more text.
